@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield Engine",
+  "description": "Autonomous cybersecurity and social engineering defense simulator training users against digital financial scams with dynamic threat actor roleplay and real-time behavioral analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
