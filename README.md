@@ -66,7 +66,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### 5. Build for Production
 ```bash
@@ -76,14 +75,9 @@ npm start
 
 ---
 
-## 🔒 Secret Admin Console
 
-To view waitlist submissions and lead telemetry:
-1. Click the **`🔒 Admin`** button in the bottom-right corner.
-2. Enter the passkey: `ADMIN-2026`
-3. View, search, export to JSON, or manage leads in real-time.
 
----
+
 
 ## 📜 License
 
